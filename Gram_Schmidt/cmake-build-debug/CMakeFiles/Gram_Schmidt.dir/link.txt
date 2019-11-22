@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Gram_Schmidt.dir/main.cpp.o CMakeFiles/Gram_Schmidt.dir/Gram_Schmidt_orthogonality.cpp.o  -o Gram_Schmidt 

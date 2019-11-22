@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="pybind11"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\..\usr\local\share\cmake\;CMake Files\..\..\..\..\..\usr\local\share\cmake\pybind11\;CMake Files\pybind11\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/sunjunjiao/Documents/c_c++/LU_decomposition/cmake-build-debug/pybind11"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/sunjunjiao/Documents/c_c++/LU_decomposition/cmake-build-debug/pybind11/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/sunjunjiao/Documents/c_c++/LU_decomposition/cmake-build-debug/pybind11/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/sunjunjiao/Documents/c_c++/LU_decomposition/cmake-build-debug/pybind11/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/sunjunjiao/Documents/c_c++/LU_decomposition/cmake-build-debug/pybind11/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/sunjunjiao/Documents/c_c++/LU_decomposition/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/sunjunjiao/Documents/c_c++/LU_decomposition/../../../../../usr/local/share/cmake/pybind11/FindPythonLibsNew.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\cmake\pybind11\"/>
+		</Unit>
+		<Unit filename="/Users/sunjunjiao/Documents/c_c++/LU_decomposition/../../../../../usr/local/share/cmake/pybind11/pybind11Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\cmake\pybind11\"/>
+		</Unit>
+		<Unit filename="/Users/sunjunjiao/Documents/c_c++/LU_decomposition/../../../../../usr/local/share/cmake/pybind11/pybind11ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\cmake\pybind11\"/>
+		</Unit>
+		<Unit filename="/Users/sunjunjiao/Documents/c_c++/LU_decomposition/../../../../../usr/local/share/cmake/pybind11/pybind11Targets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\cmake\pybind11\"/>
+		</Unit>
+		<Unit filename="/Users/sunjunjiao/Documents/c_c++/LU_decomposition/../../../../../usr/local/share/cmake/pybind11/pybind11Tools.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\cmake\pybind11\"/>
+		</Unit>
+		<Unit filename="/Users/sunjunjiao/Documents/c_c++/LU_decomposition/pybind11/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\pybind11\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
